@@ -60,25 +60,25 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff512f', end
     height: 25px;
     margin-right: 10px; 
 }
-.form__icon :hover {
+.form-header__icon :hover {
     transform: scale(1.05);
 }
-.form__name {
+.form-header__name {
     font-weight: 700;
     font-size: 24px;
     line-height: 28px;
     color: #1b1c1d;
     margin-bottom: 10px;
 }
-.form__description {
+.form-header__description {
     font-size: 13px;
     line-height: 20px;
 }
-.form__link {
+.form-link {
     text-decoration: none;
     color: #ea355a;
 }
-.form__link:hover {
+.form-link:hover {
     color: #bd1962;
 }
 .form__input {
